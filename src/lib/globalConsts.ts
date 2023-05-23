@@ -1,0 +1,1 @@
+export const MAX_SIZE_SENDING_FILES = 33554432;
